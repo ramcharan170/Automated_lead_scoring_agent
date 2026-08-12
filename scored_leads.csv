@@ -1,0 +1,7 @@
+lead_id,lead_name,lead_title,company_name,industry,company_size,country,lead_score,similar_customers
+LEAD_001,Sarah Chen,VP of Engineering,Nexus Analytics,Fintech,150,United States,92.5,"1. FinTech Solutions Corp (Size: 180, Score: 95) - Purchased Enterprise Data Security tier to comply with SOC2.
+2. PaySecure Inc (Size: 120, Score: 89) - Upgraded to automated fraud monitoring within 3 months."
+LEAD_002,Rajesh Kumar,Head of Operations,CareHealth Digital,Healthcare,50,India,84.0,"1. MediData Labs (Size: 60, Score: 87) - Adopted HIPAA-compliant patient record processing.
+2. HealthSync Asia (Size: 45, Score: 82) - Reduced administrative overhead by 40% using automated workflows."
+LEAD_003,Elena Rostova,Chief Marketing Officer,Vanguard Retail,E-Commerce,500,Germany,68.0,"1. ShopTrend EU (Size: 450, Score: 72) - Integrated real-time customer analytics for peak season sales.
+2. GlobalCart (Size: 600, Score: 65) - Utilized targeted email campaign automations."
